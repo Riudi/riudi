@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "pgjdumasleon",
+    "password": "jdumasleon",
+    "database": "riudi_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "pgjdumasleon",
+    "password": "jdumasleon",
+    "database": "riudi_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "riudi_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
